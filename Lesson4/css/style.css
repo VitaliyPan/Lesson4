@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit.woff2") format("woff2"), url("../fonts/Larsseit.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit-Medium.woff") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato-Regular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Lato-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/Lato-Black.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+*{
+   color: rgba(0, 0, 0, 0.719);
+}
+body{
+   font-family: "Roboto";
+}
+.header {
+}
+.header-link,
+.footer-link {
+   color: blue;
+   font-family: "Lato";
+   font-weight: 900;
+}
+.horses-img {
+}
+.main-horses {
+}
+.horses-main {
+}
+h1.horses-title,
+.life-title {
+   color: blueviolet;
+   font-family: "Larsseit";
+   font-weight: 700;
+}
+.horses-text {
+   font-family: "Lato";
+   font-weight: 700;
+}
+.horses-list li{
+   color: crimson;
+}
+.wild-horses {
+}
+.life-horses {
+}
+.life-title {
+color: darkred;
+font-weight: 700;
+}
+.life-text {
+   color: black;
+}
+.life-img {
+}
+.species p{
+  color: blue;
+}
+.species h2{
+   color: rgb(50, 12, 85);
+   font-family: "Lato";
+   font-weight: 900;
+}
+.species-title {
+   
+}
+.species-list li{
+   color: rgb(128, 56, 56);
+   font-family: "Lato";
+   font-weight: 700;
+}
+.facts {
+}
+.facts-horses {
+   color: rgb(51, 13, 87);
+   font-family: "Lato";
+   font-weight: 900;
+}
+.facts-list li{
+   color: rgb(4, 51, 4);
+   font-family: "Lato";
+   font-weight: 700;
+}
+.facts-img {
+}
+.footer {
+}
+.footer-title {
+}
+
